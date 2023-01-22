@@ -1,0 +1,10 @@
+{
+    "name": "Kevin",
+    "version": "0.0.1",
+    "description": "Will Change Your Color!",
+    "main": "ColorCode.py",
+    "dependencies": {
+        "discord.js": "^11.3.0"
+    },
+    "author": "Jay"
+}
